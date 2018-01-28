@@ -1,10 +1,10 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
 
-import twitter
+
 import json
 import re
-import os
+import twitter
 
 # replace 'default' with twitter user
 user = 'mahavivo'
