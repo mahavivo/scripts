@@ -1,2 +1,2 @@
-# scripts
-简单工具
+## scripts
+一些简单工具
