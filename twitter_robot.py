@@ -41,7 +41,7 @@ def main():
     # friends = api.GetFriends()
     # print([u.name for u in friends])
 	
-	# # 打印Follower名单
+    # # 打印Follower名单
     # followers = api.GetFollowers()
     # print([u.name for u in followers])
 
