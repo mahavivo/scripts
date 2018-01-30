@@ -40,6 +40,10 @@ def main():
     # # 打印关注名单
     # friends = api.GetFriends()
     # print([u.name for u in friends])
+	
+	# # 打印Follower名单
+    # followers = api.GetFollowers()
+    # print([u.name for u in followers])
 
     # # 打印Timeline
     # timeline = api.GetHomeTimeline(count=150)
