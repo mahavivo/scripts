@@ -9,7 +9,7 @@ import twitter
 # replace 'default' with twitter user
 user = 'mahavivo'
 # path to json file with your twitter credentials (see https://python-twitter.readthedocs.io/en/latest/)
-creds = 'creds.json'
+creds = 'twitter_creds.json'
 file_name = 'mahavivo.txt'
 
 
