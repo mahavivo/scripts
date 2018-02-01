@@ -14,7 +14,7 @@ file_name = 'mahavivo.txt'
 
 
 def init_twitter():
-    # load twitter API tokens；在creds.json文件中分别填入从网页获得的授权凭证。
+    # load twitter API tokens；在twitter_creds.json文件中分别填入从网页获得的授权凭证。
     with open(creds) as data_file:
         data = json.load(data_file)
 
